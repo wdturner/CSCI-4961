@@ -1,2 +1,2 @@
 Name: Canshi Wei
-[pic](image.jpg)
+[pic.jpg](image.jpg)

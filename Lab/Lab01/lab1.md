@@ -9,3 +9,8 @@
 
 ## d. Linux
 ![test](./Image/Linux.png)
+
+
+## e. Regex
+![test](./Image/Regex.png)
+![test](./Image/puzzle.png)

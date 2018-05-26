@@ -1,5 +1,5 @@
 ## Name: Canshi Wei
 ### Email: weic2@rpi.edu
-### hi
+### GitHub Account: WEICANSHI
 
-![](/Image/Image.jpg)
+![test](./Image/Image.jpg)

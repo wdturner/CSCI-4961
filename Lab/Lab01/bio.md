@@ -1,2 +1,5 @@
-# Name: Canshi Wei
-![Image](./Image/Image.jpg)
+## Name: Canshi Wei
+### Email: weic2@rpi.edu
+### hi
+
+![](/Image/Image.jpg)

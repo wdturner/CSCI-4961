@@ -6,12 +6,13 @@
 #### Free Culture chapter3
   I think Jesse just provided a platform for students to share. Even though there might be some one violate the copy right law, it is not him that induce them to do so. RIAA wanted to use their power to prevent sharing in the society, but we also can't tell they did somthing intentionally evil(but the way they chosen dealing with this thing is really immoral). Because they just fight for their profit, and it is indeed pretty annoying there is some one violate the copyright. But I think we can just leave the copyright stuff to law and government, and the law needs to adjust a little bit, like punish thoese companies like RIAA.
 
-
 ## d. Linux
 ![test](./Image/Linux.png)
-
 
 ## e. Regex
 ![test](./Image/Regex.png)
 ![test](./Image/puzzle.png)
 ![test](./Image/blockly.png)
+
+## g.Reflection
+It is really exciting to learn about open source projects! And I really a lot more familiar on how to use github. I know it is good to appreciate projects of others, but I am more willing to spend most of my time on techiniqle things than on history or just playing the software.

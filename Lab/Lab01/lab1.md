@@ -16,3 +16,6 @@
 
 ## g.Reflection
 It is really exciting to learn about open source projects! And I really a lot more familiar on how to use github. I know it is good to appreciate projects of others, but I am more willing to spend most of my time on techiniqle things than on history or just playing the software.
+
+#### Comments:
+Nice work. Your photo is very artistics. We will definitely be moving more towards tools and understanding communities, but a little understanding of the history will help us when we begin looking at how all of the tools and communities fit together. 

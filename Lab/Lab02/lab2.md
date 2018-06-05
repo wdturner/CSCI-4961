@@ -6,11 +6,22 @@ Because it clearify what can the user do on the software and what can't. It give
 This will confuse users, because they will have no idead what should can they do and what can't they do (but actually they can't do anything including copy, download, redistribute your program or sometime even access the source code would lead the violation to the law). Especially for those posts codes on github, this makes the program or software 'access only'.
 
 #### 4. Read the Failure to follow the Open System Model Section of Why the Web beat Gopher.
-Gopher's demise is that it does not support hypertext
-HyperText Transfer Protocol (HTTP)
-pointers to documents through menu files, which existed separate from the documents themselves.
+
+Technical Reasons:
+1. Wrong model of hypertext
+2. Technical inferiority to Mosaic
+3. Web's superior infrastructure
+4 Cheaper computing resources
+Author doesn't think they are the main reason, but I beleive they are at least part of it.
+
+Mind share reasons:
+1. Gopher didn't make new advances to fill new niches that arise without changing so radically that it could no longer take advantage of their successful track record. Web did this right. Also not the main reason as author described.
+
+The three interrelated factors that author think are the most important reasons: influence, publicity and open-systems participation.
+2.  influence: Web located at the position to fill the Internet's collaborative and international niche.
+3.  publicity:
 
 
 #### 5. Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses the GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen (Justification for ONE is enough).
 
-Linux uses the GPL v2. Because the developer of Linux would like to keep the Linux 'free', and who ever want to modify the Linux into another software or make it to a another generation of Linux should alsk remain it 'free'. And GPL v2 fits the properties
+Linux uses the GPL v2. Because the developer of Linux would like to keep the Linux 'free', and who ever want to modify the Linux into another software or make it to a another generation of Linux are forced to remain it 'free'. And GPL v2 fits the properties. But for MIT licence, it allows the software to use another licence or make the software 

@@ -33,3 +33,5 @@ Linux uses the GPL v2. Because the developer of Linux would like to keep the Lin
 for developer, the GPL license is the best choice. Because it allow user freely use and devleop the source code and restrict to the same licence, which enable to study the modification and improvement better.
 for company, LGPL licence is the best. Because the software may be a comsumer divice, so include install instruction is necassary.
 for common good, Apache/BSD is the best. Because disallow user to use the trade mark, which prevent if the modification and distribution of other developer contains bug and cause economic or other loss of users
+
+#### 9. Write five sentences about choosing a project to work on in this course, who will be users/customers of the project, and what license will you choose.

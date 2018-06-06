@@ -29,24 +29,7 @@ Linux uses the GPL v2. Because the developer of Linux would like to keep the Lin
 
 #### 6. Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
 
-MIT License
-
-Copyright (c) [year] [fullname]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+#### 7. Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal.
+for developer, the GPL license is the best choice. Because it allow user freely use and devleop the source code and restrict to the same licence, which enable to study the modification and improvement better.
+for company, LGPL licence is the best. Because the software may be a comsumer divice, so include install instruction is necassary.
+for common good, Apache/BSD is the best. Because disallow user to use the trade mark, which prevent if the modification and distribution of other developer contains bug and cause economic or other loss of users

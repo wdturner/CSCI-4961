@@ -26,3 +26,27 @@ The three interrelated factors that author think are the most important reasons:
 #### 5. Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses the GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen (Justification for ONE is enough).
 
 Linux uses the GPL v2. Because the developer of Linux would like to keep the Linux 'free', and who ever want to modify the Linux into another software or make it to a another generation of Linux are forced to remain it 'free'. And GPL v2 fits the properties. But for MIT licence, it allows the software to use another licence or make the software 
+
+#### 6. Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -18,9 +18,9 @@ Mind share reasons:
 1. Gopher didn't make new advances to fill new niches that arise without changing so radically that it could no longer take advantage of their successful track record. Web did this right. Also not the main reason as author described.
 
 The three interrelated factors that author think are the most important reasons: influence, publicity and open-systems participation.
-2.  influence: Web located at the position to fill the Internet's collaborative and international niche.
-3.  publicity: Web had the advantage of being a medium of expression itself and also the choice of name plays an important role.
-4.  open systems model: Web enabled community to help enhance the system, but gopher not. Also political element shift developers to Web. And also Gopher team released a Request for Comments but it was informational, not standards-track. And they failed to follow up on this RFC with publications of additional proposed changes to Gopher.
+1.  influence: Web located at the position to fill the Internet's collaborative and international niche.
+2.  publicity: Web had the advantage of being a medium of expression itself and also the choice of name plays an important role.
+3.  open systems model: Web enabled community to help enhance the system, but gopher not. Also political element shift developers to Web. And also Gopher team released a Request for Comments but it was informational, not standards-track. And they failed to follow up on this RFC with publications of additional proposed changes to Gopher.
 
 
 #### 5. Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses the GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen (Justification for ONE is enough).

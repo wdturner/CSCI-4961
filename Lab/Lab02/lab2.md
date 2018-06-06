@@ -34,7 +34,7 @@ for developer, the GPL license is the best choice. Because it allow user freely 
 for company, LGPL licence is the best. Because the software may be a comsumer divice, so include install instruction is necassary.
 for common good, Apache/BSD is the best. Because disallow user to use the trade mark, which prevent if the modification and distribution of other developer contains bug and cause economic or other loss of users
 
-#### 8.
+#### 8. Create a repository and choose a license.
 https://github.com/WEICANSHI/CSCI-4961/blob/master/LICENSE.md
 
 #### 9. Write five sentences about choosing a project to work on in this course, who will be users/customers of the project, and what license will you choose.

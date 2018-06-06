@@ -41,3 +41,8 @@ https://github.com/WEICANSHI/CSCI-4961/blob/master/LICENSE.md
 Maybe a game, the user might be students in computer science who interested in game development. Or students who likes to play game. The license would be MIT license, it is more free for user to access and redistribute and modify, thus enable us in the community have a better communication in this case.
 
 #### 10. Take 5 projects from Observatory or past RCOS Projects and create a table for which project has which license.
+https://github.com/olivierpo/cfs   Yes    https://github.com/olivierpo/cfs/blob/master/LICENSE   MIT license
+https://github.com/ScottNotFound/clara    Yes   https://github.com/ScottNotFound/clara/blob/develop/LICENSE   Apache
+https://github.com/jpow187/LinuxTutor     Yes   https://github.com/jpow187/LinuxTutor/blob/master/LICENSE     GPL
+https://yacs.cs.rpi.edu/                  Yes   https://github.com/YACS-RCOS/yacs/blob/master/LICENSE   MIT
+http://submitty.org/                      Yes   https://github.com/Submitty/Submitty/blob/master/LICENSE.md   BSD

@@ -38,4 +38,6 @@ for common good, Apache/BSD is the best. Because disallow user to use the trade 
 https://github.com/WEICANSHI/CSCI-4961/blob/master/LICENSE.md
 
 #### 9. Write five sentences about choosing a project to work on in this course, who will be users/customers of the project, and what license will you choose.
+Maybe a game, the user might be students in computer science who interested in game development. Or students who likes to play game. The license would be MIT license, it is more free for user to access and redistribute and modify, thus enable us in the community have a better communication in this case.
 
+#### 10. Take 5 projects from Observatory or past RCOS Projects and create a table for which project has which license.

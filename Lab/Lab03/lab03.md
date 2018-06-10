@@ -1,2 +1,2 @@
-This is my lab03
-
+6. install gitk
+![](./Image/gitk.png)

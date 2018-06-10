@@ -4,6 +4,5 @@
 
 
 ### Part 2
-#### 4. Do the first four levels of learn git 
-branch
+#### 4. Do the first four levels of learn git branch
 ![](./Image/learn.png)

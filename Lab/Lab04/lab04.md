@@ -7,3 +7,5 @@ https://github.com/WEICANSHI/CSCI-4961/wiki/Project
 ![](./Image/LaTex.png)
 
 #### 3. Use latex to display a Hadamard Matrix of size 4
+
+![](./Image/LaTex2.png)
